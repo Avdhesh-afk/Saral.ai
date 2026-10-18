@@ -14,7 +14,7 @@ except ImportError:
 # ==============================================================================
 # 1. GROQ CONFIGURATION (SINGLE MODEL: GPT-OSS-120B)
 # ==============================================================================
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "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")
+GROQ_API_KEY ="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"
 GROQ_MODEL = "openai/gpt-oss-120b"
 
 SYSTEM_PROMPT = """
