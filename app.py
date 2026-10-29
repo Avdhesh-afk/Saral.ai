@@ -15,7 +15,7 @@ except ImportError:
 # 1. GROQ CONFIGURATION (LOCKED TO openai/gpt-oss-120b)
 # ==============================================================================
 # अपनी असली Groq API Key (gsk_...) नीचे डबल कोट्स के अंदर पेस्ट करें:
-GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "PASTE_YOUR_API_KEY_HERE")
+GROQ_API_KEY = os.environ.get("GROQ_API_KEY", "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")
 
 # Primary text model locked to openai/gpt-oss-120b
 GROQ_TEXT_MODEL = "openai/gpt-oss-120b"
