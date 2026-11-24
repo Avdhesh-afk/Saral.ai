@@ -1,5 +1,0 @@
-streamlit
-groq
-pillow
-requests
-gtts
